@@ -5,7 +5,7 @@
 ## Launching Kryptos
 
 ```lua
-loadstring(game:HttpGet(''))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/RENBex6969/Kryptos/refs/heads/main/Kryptos.lua'))()
 ```
 
 ## Features
