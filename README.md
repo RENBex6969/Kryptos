@@ -20,11 +20,11 @@ Integrated Bypassing System!
 
 These are some features that Krypton has to 
 
-![Untitled](https://raw.githubusercontent.com/RENBex6969/Kryptos/refs/heads/main/Screenshot_20241010_200940_Roblox.jpg)
+## Images
 
 
-### | More to come
+![Untitled](https://raw.githubusercontent.com/RENBex6969/Kryptos/refs/heads/main/Screenshot_20241010_200921_Roblox.jpg)
 
-### | To do list
-
+![AI1](https://raw.githubusercontent.com/RENBex6969/Kryptos/refs/heads/main/Screenshot_20241010_200931_Roblox.jpg)
+![AI2](https://raw.githubusercontent.com/RENBex6969/Kryptos/refs/heads/main/Screenshot_20241010_200940_Roblox.jpg)
 
