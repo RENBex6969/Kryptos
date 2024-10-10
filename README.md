@@ -20,6 +20,9 @@ Integrated Bypassing System!
 
 These are some features that Krypton has to 
 
+![Untitled](https://raw.githubusercontent.com/RENBex6969/Kryptos/refs/heads/main/Screenshot_20241010_200940_Roblox.jpg)
+
+
 ### | More to come
 
 ### | To do list
